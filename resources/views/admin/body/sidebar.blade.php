@@ -54,72 +54,8 @@
                                     <li><a href="widgets.html" class="slide-item"> Widgets</a></li>
                                 </ul>
                             </li>
-                            <li class="slide">
-                                <a class="side-menu__item" data-bs-toggle="slide" href="javascript:void(0)"><i
-                                        class="side-menu__icon fe fe-package"></i><span
-                                        class="side-menu__label">Bootstrap</span><i
-                                        class="angle fe fe-chevron-right"></i></a>
-                                <ul class="slide-menu mega-slide-menu">
-                                    <li class="side-menu-label1"><a href="javascript:void(0)">Bootstrap</a></li>
-                                    <div class="mega-menu">
-                                        <div class="">
-                                            <ul>
-                                                <li><a href="alerts.html" class="slide-item"> Alerts</a></li>
-                                                <li><a href="buttons.html" class="slide-item"> Buttons</a></li>
-                                                <li><a href="colors.html" class="slide-item"> Colors</a></li>
-                                                <li><a href="avatarsquare.html" class="slide-item"> Avatar Square</a>
-                                                </li>
-                                                <li><a href="avatar-radius.html" class="slide-item"> Avatar Radius</a>
-                                                </li>
-                                                <li><a href="avatar-round.html" class="slide-item"> Avatar Rounded</a>
-                                                </li>
-                                                <li><a href="dropdown.html" class="slide-item"> Dropdowns</a></li>
-                                            </ul>
-                                        </div>
-                                        <div class="">
-                                            <ul>
-                                                <li><a href="listgroup.html" class="slide-item"> List Group</a></li>
-                                                <li><a href="tags.html" class="slide-item"> Tags</a></li>
-                                                <li><a href="pagination.html" class="slide-item"> Pagination</a></li>
-                                                <li><a href="navigation.html" class="slide-item"> Navigation</a></li>
-                                                <li><a href="typography.html" class="slide-item"> Typography</a></li>
-                                                <li><a href="breadcrumbs.html" class="slide-item"> Breadcrumbs</a>
-                                                </li>
-                                                <li><a href="badge.html" class="slide-item"> Badges / Pills</a></li>
-                                            </ul>
-                                        </div>
-                                        <div class="">
-                                            <ul>
-                                                <li><a href="panels.html" class="slide-item"> Panels</a></li>
-                                                <li><a href="thumbnails.html" class="slide-item"> Thumbnails</a></li>
-                                                <li><a href="offcanvas.html" class="slide-item"> Offcanvas</a></li>
-                                                <li><a href="toast.html" class="slide-item"> toast</a></li>
-                                                <li><a href="scrollspy.html" class="slide-item"> Scrollspy</a></li>
-                                                <li><a href="mediaobject.html" class="slide-item"> Media Object</a>
-                                                </li>
-                                                <li><a href="accordion.html" class="slide-item"> Accordions </a></li>
-                                            </ul>
-                                        </div>
-                                        <div class="">
-                                            <ul>
-                                                <li><a href="tabs.html" class="slide-item"> Tabs</a></li>
-                                                <li><a href="modal.html" class="slide-item"> Modal</a></li>
-                                                <li><a href="tooltipandpopover.html" class="slide-item"> Tooltip and
-                                                        popover</a></li>
-                                                <li><a href="progress.html" class="slide-item"> Progress</a></li>
-                                                <li><a href="carousel.html" class="slide-item"> Carousels</a></li>
-                                                <li><a href="ribbons.html" class="slide-item"> Ribbons</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </ul>
-                            </li>
-                            <li>
-                                <a class="side-menu__item has-link" href="landing-page.html" target="_blank"><i
-                                        class="side-menu__icon fe fe-zap"></i><span class="side-menu__label">Landing
-                                        Page</span><span
-                                        class="badge bg-green br-5 side-badge blink-text pb-1">New</span></a>
-                            </li>
+
+
                             <li class="sub-category">
                                 <h3>Pre-build Pages</h3>
                             </li>
@@ -299,18 +235,6 @@
                             </li>
                             <li class="slide">
                                 <a class="side-menu__item" data-bs-toggle="slide" href="javascript:void(0)"><i
-                                        class="side-menu__icon fe fe-map-pin"></i><span
-                                        class="side-menu__label">Maps</span><i
-                                        class="angle fe fe-chevron-right"></i></a>
-                                <ul class="slide-menu">
-                                    <li class="side-menu-label1"><a href="javascript:void(0)">Maps</a></li>
-                                    <li><a href="maps1.html" class="slide-item">Leaflet Maps</a></li>
-                                    <li><a href="maps2.html" class="slide-item">Mapel Maps</a></li>
-                                    <li><a href="maps.html" class="slide-item">Vector Maps</a></li>
-                                </ul>
-                            </li>
-                            <li class="slide">
-                                <a class="side-menu__item" data-bs-toggle="slide" href="javascript:void(0)"><i
                                         class="side-menu__icon fe fe-bar-chart-2"></i><span
                                         class="side-menu__label">Charts</span><span
                                         class="badge bg-secondary side-badge">6</span><i
@@ -328,26 +252,7 @@
                                     <li><a href="chart-pie.html" class="slide-item"> C3 Pie charts</a></li>
                                 </ul>
                             </li>
-                            <li class="slide">
-                                <a class="side-menu__item" data-bs-toggle="slide" href="javascript:void(0)"><i
-                                        class="side-menu__icon fe fe-wind"></i><span
-                                        class="side-menu__label">Icons</span><i
-                                        class="angle fe fe-chevron-right"></i></a>
-                                <ul class="slide-menu">
-                                    <li class="side-menu-label1"><a href="javascript:void(0)">Icons</a></li>
-                                    <li><a href="icons.html" class="slide-item"> Font Awesome</a></li>
-                                    <li><a href="icons2.html" class="slide-item"> Material Design Icons</a></li>
-                                    <li><a href="icons3.html" class="slide-item"> Simple Line Icons</a></li>
-                                    <li><a href="icons4.html" class="slide-item"> Feather Icons</a></li>
-                                    <li><a href="icons5.html" class="slide-item"> Ionic Icons</a></li>
-                                    <li><a href="icons6.html" class="slide-item"> Flag Icons</a></li>
-                                    <li><a href="icons7.html" class="slide-item"> pe7 Icons</a></li>
-                                    <li><a href="icons8.html" class="slide-item"> Themify Icons</a></li>
-                                    <li><a href="icons9.html" class="slide-item">Typicons Icons</a></li>
-                                    <li><a href="icons10.html" class="slide-item">Weather Icons</a></li>
-                                    <li><a href="icons11.html" class="slide-item">Bootstrap Icons</a></li>
-                                </ul>
-                            </li>
+
                         </ul>
                         <div class="slide-right" id="slide-right"><svg xmlns="http://www.w3.org/2000/svg"
                                 fill="#7b8191" width="24" height="24" viewBox="0 0 24 24">

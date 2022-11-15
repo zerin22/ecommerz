@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\AdminController;
+use App\Http\Controllers\Backend\AdminProfileController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -25,12 +26,14 @@ Route::middleware('admin:admin')->group(function (){
 
 Route::middleware(['auth:sanctum,admin',config('jetstream.auth_session'),'verified'])->group(function () {
     Route::get('/admin/dashboard', function(){
-        return view('dashboard');
+        return view('admin.index');
     })->name('admin.dashboard');
 });
 
 //Admin All Route
 Route::get('/admin/logout', [AdminController::class, 'destroy'])->name('admin.logout');
+Route::get('/admin/profile', [AdminProfileController ::class, 'AdminProfile'])->name('admin.profile');
+Route::get('/admin/profile/edit',[AdminProfileController::class, 'AdminProfileEdit'])->name('admin.profile.edit');
 
 
 
